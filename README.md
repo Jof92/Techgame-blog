@@ -1,5 +1,5 @@
 # Techgame-blog
-um site em format de blog, para apaixonados por tecnologia e games.<br>
+Um site em formato de blog, para apaixonados por tecnologia e games.<br>
 A site in the format of a blog, for lovers of technologies and games.<br>
 
 
